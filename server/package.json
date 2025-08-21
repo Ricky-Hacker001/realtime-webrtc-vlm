@@ -1,0 +1,13 @@
+{
+  "name": "signaling-server",
+  "version": "1.0.0",
+  "description": "Simple WebRTC Signaling Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.13.0"
+  }
+}
