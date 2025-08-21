@@ -36,7 +36,7 @@ Follow these steps to get the application running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Ricky-Hacker001/realtime-webrtc-vlm.git](https://github.com/Ricky-Hacker001/realtime-webrtc-vlm.git)
+git clone https://github.com/Ricky-Hacker001/realtime-webrtc-vlm.git
 cd realtime-webrtc-vlm
 ```
 
