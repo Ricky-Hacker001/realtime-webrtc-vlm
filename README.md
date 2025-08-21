@@ -4,8 +4,6 @@
 
 ---
 
-![Live Demo GIF](https://i.imgur.com/your-demo.gif)
-*(Note: You will need to create a short GIF of your working demo and replace the link above.)*
 
 ## ✨ Features
 
